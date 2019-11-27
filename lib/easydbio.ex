@@ -1,6 +1,6 @@
 defmodule Easydbio do
   @moduledoc """
-  Hackney hold-connection gen-server for easydbio
+  Hackney hold-connection GenServer for easydbio
   """
 
   @app_url "https://app.easydb.io/"
