@@ -42,3 +42,11 @@ curl --request GET \
 ```
 
 If you create a PR implementing this language, I'm happy to send you $5 via Stellar.
+
+### TODO
+
+1) Test this library when https://easydb.io will be up (DONE)
+2) Write tests
+3) Create process-less adapter
+4) Documentation (Partly done)
+5) Erlang term encoding
